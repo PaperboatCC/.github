@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="fasmga-logo-classic" clip-path="url(#clip0_0_2)">
+<path id="8461E04Ffb" d="M0 67C0 29.9969 29.9969 0 67 0H445C482.003 0 512 29.9969 512 67V445C512 482.003 482.003 512 445 512H67C29.9969 512 0 482.003 0 445V67Z" fill="#04977C"/>
+<g id="E6ef4bBa08">
+<path d="M123 28H336V118H123V28Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M336 -9.33993L418.34 -46L455 36.3399L372.66 73L336 -9.33993Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M123 118L213 118V478H123L123 118Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M123 216H336V306H123V216Z" fill="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_2">
+<rect width="512" height="512" fill="white"/>
+</clipPath>
+</defs>
+</svg>
