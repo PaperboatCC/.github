@@ -1,6 +1,6 @@
 <h2>
   <a href="https://www.fasmga.org">
-    <img src="https://github.com/fasmga/.github/raw/main/assets/fasmga-wordmark-green.png" width="69%"/>
+    <img src="https://github.com/fasmga/.github/raw/main/assets/fasmga-wordmark-green.png" />
   </a>
 </h2>
 
